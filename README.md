@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajulo444
-- 👀 I’m interested in Full-stack development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on React.js
+- 🌱 web development
+- 💞️ collaborate with me on React.js projects
 - 📫 E-mail me at bolajoko2002@gmail.com
 
 <!---
